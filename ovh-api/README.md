@@ -37,5 +37,5 @@ ovh-api/ovh-kube-restart.sh watch <kubeId>    # poll until READY
 `force=true` redeploys the whole control plane with a brief apiserver outage —
 avoid unless OVH support asks for it.
 
-Cluster IDs and the incident runbook live in the repo [CLAUDE.md](../CLAUDE.md)
+Cluster IDs and the incident runbook live in the repo [AGENTS.md](../AGENTS.md)
 (§ "OVH API — kube control plane restart").
